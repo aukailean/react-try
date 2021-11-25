@@ -7,9 +7,12 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "i18next": "^21.5.3",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
+    "react-i18next": "^11.14.3",
     "react-query": "^3.33.5",
+    "react-router-dom": "6",
     "styled-components": "^5.3.3"
   },
   "devDependencies": {
