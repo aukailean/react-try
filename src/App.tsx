@@ -1,10 +1,9 @@
-import { Checkbox } from "./components/Checkbox/Checkbox";
-import { useQuery, QueryClientProvider } from "react-query";
+// import { Checkbox } from "./components/Checkbox/Checkbox";
+import { Table } from "./components/Table";
 function App() {
   return (
     <div className="App">
-      Checkbox
-      <Checkbox />
+      <Table />
     </div>
   );
 }
